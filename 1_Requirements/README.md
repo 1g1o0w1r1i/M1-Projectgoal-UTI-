@@ -2,6 +2,7 @@
 
 
 **#INTRODUCTION**: 
+                 
                  **Phonebook Management System** allows you to perform the simple phonebook operations as you do in the mobile phonebook. You can do operations like insert, modify, list as well as you can also do a search and delete operations.The file handling and data structure concepts are extensively used in this project. This code is totally error-free code.This project is a basic c project which can help you to understand the basic concepts of functions, data structure and file handling. when you run the project the add new records, listing, modifying and delete are visible in the main menu.Personal records such as person name, fathers name, phone number, email etc are asked during the addition of records. This project is a console-based application which is designed in Code Block with the help of GCC compiler.  
 
 **PURPOSE**:
@@ -27,6 +28,7 @@
        
 **FEATURES:**
       The key features of phonebook management system are:
+               
                1.Add Record
               
               2.Contact List Record
