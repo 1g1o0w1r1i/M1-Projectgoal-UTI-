@@ -18,16 +18,23 @@
 
 **ADMINISTRATAOR:**
        -> A unique system user who manages the system.
+       
 **USER:**
        -> A Person who uses the Software.
+       
 **OFFICER:** 
        -> A person who provides various facilities to the normal user. 
        
 **FEATURES:**
       The key features of phonebook management system are:
                1.Add Record
-               2.Contact List Record
-               3.Search Record
-               4.Modify
-               5.Delete Record
-               6.Exit
+              
+              2.Contact List Record
+              
+              3.Search Record
+              
+              4.Modify
+              
+              5.Delete Record
+              
+              6.Exit
