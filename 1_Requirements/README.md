@@ -31,10 +31,10 @@
      Phonebook Management System is the way that users can add a new phone record,modify and display existing phone records, search a particular phone record and delete phone records using file 
      
  # SWOT ANALYSIS
- STRENGTH- We can able to create, add, search, modify the details of the contacts record.
- WEAKNESS- we can able to delete or modify the contact details in wrong way without any knowledge of that specified person.
- OPPORTUNITIES- We can able t search some specified person contact details within few minutes without any workload just be clicking it.
- THREATS- some unknown person can missuse the contact details.
+ * STRENGTH- We can able to create, add, search, modify the details of the contacts record.
+ * WEAKNESS- we can able to delete or modify the contact details in wrong way without any knowledge of that specified person.
+ * OPPORTUNITIES- We can able t search some specified person contact details within few minutes without any workload just be clicking it.
+ * THREATS- some unknown person can missuse the contact details.
  
 # 4W'S and 1'H
 # Who
