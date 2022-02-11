@@ -23,7 +23,7 @@
    * provides flexibility
    * Easy to Operate
  # EXPLANATION  
-     Phonebook Management System is the way that users can add a new phone record,modify and display existing phone records, search a particular phone record and delete phone records using file
+     Phonebook Management System is the way that users can add a new phone record,modify and display existing phone records, search a particular phone record and delete phone records using file 
 
 
 
