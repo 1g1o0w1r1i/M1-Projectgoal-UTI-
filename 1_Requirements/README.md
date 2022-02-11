@@ -24,8 +24,21 @@
    * Easy to Operate
  # EXPLANATION  
      Phonebook Management System is the way that users can add a new phone record,modify and display existing phone records, search a particular phone record and delete phone records using file 
-
-
+ # SWOT ANALYSIS
+ 
+ # 4W'S and 1'H
+# Who
+* List of contacts
+# What 
+* Add and delete of contacts.
+* Search and Modify the list of records.
+* Display after modification made if any needed. 
+# When 
+* when the user wants to save time and reduce their manual work and performs tasks quickly
+# Where
+* There are lots of contact records and lists of people are there in all over the world.
+# How
+* This issue can be solved by creating a system application. In that, we can add contacts, search specific contact, modify contact record, delete any contact and display the records using the file. 
 
 **#RESEARCH:**
         1.People who don't have time to write  the phone numbers in phonebook management system manually can use this application to do operations like insert,modify,list search and delete operations.
