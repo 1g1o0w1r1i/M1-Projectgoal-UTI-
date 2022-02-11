@@ -40,13 +40,12 @@ void start()
 }
 void menu()
 {
-    system("cls");
 printf("\t\t**********WELCOME TO PHONEBOOK*************");
 
 printf("\n\n\t\t\t  MENU\t\t\n\n");
-printf("\t1.Add New   \t2.List   \t3.Exit  \n\t4.Modify \t5.Search\t6.Delete");
+printf("\t1.Add New   \t2.List   \t3.Exit  \n\t4.Modify \t5.Search \t6.Delete");
 
-switch(getch())
+switch (getch())
 {
     case '1':
 
@@ -83,7 +82,7 @@ menu();
         printf("\nEnter father name: ");
         got(p.father_name);
         printf("\nEnter mother name: ");
-        got(p.mother_name);
+        got(p.mother_name);m
         printf("\nEnter phone no.:");
         scanf("%ld",&p.mble_no);
         printf("Enter sex:");
@@ -93,7 +92,7 @@ menu();
         printf("\nEnter citizen no:");
         got(p.citision_no);
         fwrite(&p,sizeof(p),1,f);
-      fflush (stdin);
+      flush (stdin);
         printf("\nrecord saved");
 fclose(f);
     printf("\n\nEnter any key");
