@@ -45,6 +45,25 @@
         2. In addition , we can add new recordings, listing, modifying and deletion process are visible in mainmenu.
 # PURPOSE
              To provide a comprehensive solution for phone book management system. As we all know People have been relying on the phonebook from many years to get basic info such as Phone no, address etc of the people they need to contact. However this method is not so efficient since users may not get the desired results. This call for a better design of a system where in people can easily retrieve info without wasting much of their time. Phone Book Management System has been designed to overcome this problem.
+# REQUIREMENTS
+# HIGH LEVEL REQUIREMENTS
+| ID   |              Description                               | Category  |	   Status       |
+|------|--------------------------------------------------------|-----------|-----------------|
+| HR01 |	User shall be able to login this system                | Techincal |  IMPLEMENTED    |
+| HR02 |	User shall be able to add a new contact                | Techincal |  IMPLEMENTED    | 
+| HR03 |	User shall be able to modify any contacts in the list of records |	Techincal |  IMPLEMENTED    |
+| HR04 |	User shall be able to delete any contacts            |	Techincal |	 IMPLEMENTED    |
+| HR05 |	User shall be able to display the contacts after any changes made         |	Techincal |  IMPLEMENTED    |
+
+# LOW LEVEL REQUIREMENTS
+
+| ID     |    	Description |	HLR ID	                             | Status (Implemented/Future) | 
+| :---:  |          :---:          | :---: | :---: |
+| LR01   | 	User can login to the system                                     |	HR01 |	IMPLEMENTED   |
+| LR02   |	User need to add any  new contacts if they want                  |	HR02 |	IMPLEMENTED   |                      
+| LR03   |	user can check the details of the contacts whenever wants        |  HR03 |	IMPLEMENTED   |
+| LR04   | 	Displaying the list of contacts                                  |  HR05 |	IMPLEMENTED   |
+
 
 # ADMINISTRATION
        -> A unique system user who manages the system.
