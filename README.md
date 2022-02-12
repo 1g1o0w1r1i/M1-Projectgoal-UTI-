@@ -20,8 +20,9 @@
 |F_03|Select Movie|
 |F_04|	Summary Of Ticket|
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/22d3bf36b9d54e6cbc87adb875c1e5ef)](https://www.codacy.com/gh/tamilarasan2001/M1_movie-ticket_booking_system_util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M1_movie-ticket_booking_system_util&amp;utm_campaign=Badge_Grade)
-<a href="https://app.codiga.io/public/user/github/tamilarasan2001">
-   <img src="https://api.codiga.io/public/badge/user/github/tamilarasan2001?style=light" alt="codiga badge" />
-</a>
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a75ede2fab74ad1b286b5a551b7abae)](https://www.codacy.com/gh/1g1o0w1r1i/M1_Phonebook_Management_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=1g1o0w1r1i/M1_Phonebook_Management_system&amp;utm_campaign=Badge_Grade)
+https://app.codiga.io/public/user/github/1g1o0w1r1i
+
+
 Repository to do miniproject based on the c programming language about the PhoneBook Management System.
