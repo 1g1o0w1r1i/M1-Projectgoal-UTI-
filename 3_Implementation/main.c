@@ -12,7 +12,7 @@ struct person
     long int mobile_no;
     char sex[8];
     char mail[100];
-    char citision_no[20];
+    char citizen_no[20];
 
     };
 void menu();
@@ -143,7 +143,7 @@ while(fread(&p,sizeof(p),1,f)==1)
     if(strcmp(p.name,name)==0)
     {
         printf("\n\tDetail Information About %s",name);
-        printf("\nName:%s\naddress:%s\nFather name:%s\nMother name:%s\nMobile no:%ld\nsex:%s\nE-mail:%s\nCitision no:%s",p.name,p.address,p.father_name,p.mother_name,p.mble_no,p.sex,p.mail,p.citision_no);
+        printf("\nName:%s\naddress:%s\nFather name:%s\nMother name:%s\nMobile no:%ld\nsex:%s\nE-mail:%s\nCitizen no:%s",p.name,p.address,p.father_name,p.mother_name,p.mble_no,p.sex,p.mail,p.citizen_no);
     }
         else
         printf("file not found");
@@ -212,7 +212,7 @@ void modifyrecord()
     int flag=0;
     struct person p,s;
 	char  name[50];
-	f=fopen("project","rb+");
+	f=fopen("project" "rb+");
 	if(f==NULL)
 		{
 			printf("CONTACT'S DATA NOT ADDED YET.");
@@ -223,7 +223,7 @@ void modifyrecord()
 	    system("cls");
 		printf("\nEnter CONTACT'S NAME TO MODIFY:\n");
             got(name);
-            while(fread(&p,sizeof(p),1,f)==1)
+            while(fread(&p,sizeof(p),1,f)=1)
             {
                 if(strcmp(name,p.name)==0)
 		{
@@ -242,7 +242,7 @@ void modifyrecord()
                     printf("\nEnter e-mail:");
                     got(s.mail);
                     printf("\nEnter citizen no\n");
-                    got(s.citision_no);
+                    got(s.citizen_no);
                     fseek(f,-sizeof(p),SEEK_CUR);
                     fwrite(&s,sizeof(p),1,f);
                     flag=1;
