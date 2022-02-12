@@ -2,7 +2,9 @@
 
 * Phonebook Management System is based on the concept of  adding , searching, modifying,and deleting the contacts of any person in the list of records.The project has been developed to carry out process easily and quickly.The system Displays All the contacts record.It enables the user to Search  and find the specific person contacts from the list without any hard work with in our hands.
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhoEDAoODcTNnk4ymyaw29fp-sWVhax0Qnw&usqp=CAU
+![Phone book](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhoEDAoODcTNnk4ymyaw29fp-sWVhax0Qnw&usqp=CAU)
+![image](https://user-images.githubusercontent.com/98813206/153725780-2b94c0ae-0ebf-4eeb-9614-9a96b9e9862a.png)
+
 
 # Folder Structure
 |Folder|	Description|
@@ -27,4 +29,3 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhoEDAoODcTNnk4ymyaw29fp-
    <img src="https://api.codiga.io/public/badge/user/github/1g1o0w1r1i?style=light" alt="codiga badge" />
 </a>
 
-Repository to do miniproject based on the c programming language about the PhoneBook Management System.
