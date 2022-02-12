@@ -9,6 +9,34 @@
              To provide a comprehensive solution for phone book management system. As we all know People have been relying on the phonebook from many years to get basic info such as Phone no, address etc of the people they need to contact. However this method is not so efficient since users may not get the desired results. This call for a better design of a system where in people can easily retrieve info without wasting much of their time. Phone Book Management System has been designed to overcome this problem.
 # SCOPE
           Phone Book  provides more technical assignment help to us in that we get a simple solution to store our contacts. We can use it to replace our hard phonebook or even use it as an office wide phone directory. This will help user to easily search and manage contacts using this system.  Users with Average info about computers can make use of this system. They can make use of different facilities offered by telephone systems like Internet Plans etc. Users can view their Monthly Telephone Bill instantly. Search results will be fast as compared to manual search.
+# REQUIREMENTS
+# HIGH LEVEL REQUIREMENTS
+| ID   |              Description                               | Category  |	   Status       |
+|------|--------------------------------------------------------|-----------|-----------------|
+| HR01 |	User shall be able to login this system                | Techincal |  IMPLEMENTED    |
+| HR02 |	User shall be able to add a new contact                | Techincal |  IMPLEMENTED    | 
+| HR03 |	User shall be able to modify any contacts in the list of records |	Techincal |  IMPLEMENTED    |
+| HR04 |	User shall be able to delete any contacts            |	Techincal |	 IMPLEMENTED    |
+| HR05 |	User shall be able to display the contacts after any changes made         |	Techincal |  IMPLEMENTED    |
+
+# LOW LEVEL REQUIREMENTS
+
+| ID     |    	Description |	HLR ID	                             | Status (Implemented/Future) | 
+| :---:  |          :---:          | :---: | :---: |
+| LR01   | 	User can login to the system                                     |	HR01 |	IMPLEMENTED   |
+| LR02   |	User need to add any  new contacts if they want                  |	HR02 |	IMPLEMENTED   |                      
+| LR03   |	user can check the details of the contacts whenever wants        |  HR03 |	IMPLEMENTED   |
+| LR04   | 	Displaying the list of contacts                                  |  HR05 |	IMPLEMENTED   |
+
+
+# ADMINISTRATION
+       -> A unique system user who manages the system.
+# USER
+       -> A Person who uses the Software.      
+# OFFICER 
+       -> A person who provides various facilities to the normal user. 
+       
+
 # FEATURES
       The key features of phonebook management system are
                
