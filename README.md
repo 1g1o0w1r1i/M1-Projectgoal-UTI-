@@ -22,7 +22,9 @@
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a75ede2fab74ad1b286b5a551b7abae)](https://www.codacy.com/gh/1g1o0w1r1i/M1_Phonebook_Management_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=1g1o0w1r1i/M1_Phonebook_Management_system&amp;utm_campaign=Badge_Grade)
-https://app.codiga.io/public/user/github/1g1o0w1r1i
 
+<a href="https://app.codiga.io/public/user/github/1g1o0w1r1i">
+   <img src="https://api.codiga.io/public/badge/user/github/1g1o0w1r1i?style=light" alt="codiga badge" />
+</a>
 
 Repository to do miniproject based on the c programming language about the PhoneBook Management System.
