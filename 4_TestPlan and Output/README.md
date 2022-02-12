@@ -7,3 +7,4 @@
 
  # COMPILER VISUAL STUDIO CODE
 
+the output jpg pics are collected from internet.
