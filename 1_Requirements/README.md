@@ -64,7 +64,7 @@
 # LOW LEVEL REQUIREMENTS
 
 | ID     |    	Description |	HLR ID	                             | Status (Implemented/Future) | 
-| :---:  |          :---:          | :---: | :---: |
+| :---:  |          :---:      | :---: | :---: |
 | LR01   | 	User can login to the system                                     |	HR01 |	IMPLEMENTED   |
 | LR02   |	User need to add any  new contacts if they want                  |	HR02 |	IMPLEMENTED   |                      
 | LR03   |	user can check the details of the contacts whenever wants        |  HR03 |	IMPLEMENTED   |
