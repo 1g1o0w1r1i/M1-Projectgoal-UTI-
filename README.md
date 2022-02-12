@@ -20,6 +20,7 @@
 |F_03|Select Movie|
 |F_04|	Summary Of Ticket|
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4388451f9bcf480890f60e7118646954)](https://app.codacy.com/gh/1g1o0w1r1i/M1_Phonebook_Management_system?utm_source=github.com&utm_medium=referral&utm_content=1g1o0w1r1i/M1_Phonebook_Management_system&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/22d3bf36b9d54e6cbc87adb875c1e5ef)](https://www.codacy.com/gh/tamilarasan2001/M1_movie-ticket_booking_system_util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M1_movie-ticket_booking_system_util&amp;utm_campaign=Badge_Grade)
 <a href="https://app.codiga.io/public/user/github/tamilarasan2001">
    <img src="https://api.codiga.io/public/badge/user/github/tamilarasan2001?style=light" alt="codiga badge" />
