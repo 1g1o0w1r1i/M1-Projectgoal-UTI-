@@ -95,11 +95,7 @@ menu();
         got(p.citision_no);
         fwrite(&p,sizeof(p),1,f);
 
-      fflush(stdin);
-        printf("\nrecord saved");
-
-fclose(f);
-
+      
     printf("\n\nEnter any key");
 
      getch();
@@ -311,7 +307,7 @@ void got(char *name)
                     {
                         i--;
                     }
-                   // printf("h");
+                   print("h");
                     system("cls");
                     for(j=0;j<i;j++)
                     {
