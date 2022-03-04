@@ -1,6 +1,4 @@
-M1_Phonebook_Management_system:
-	gcc management.c -o output
-PROJ_NAME = main
+PHONEBOOK_MANAGEMENT = main
 TEST_PHONEBOOK_MANAGEMENT = Test_$(PHONEBOOK_MANAGEMENT)
 
 SRC = src/add.c\
